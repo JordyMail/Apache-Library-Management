@@ -62,3 +62,9 @@ Created as a university assignment using Java and MySQL.
 #### login-Success
 ![login-succsess](https://github.com/user-attachments/assets/0b81fd33-46ab-4b63-a39a-004f525143d2)
 
+### New-User-Updated
+![user-added](https://github.com/user-attachments/assets/d0898de8-8292-4dca-aba0-3c8ba5520907)
+
+### Home-Page
+![homepage](https://github.com/user-attachments/assets/87521794-1e70-427e-b58b-da9ff17b7052)
+
