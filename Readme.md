@@ -1,6 +1,6 @@
 # Library Management System - Java & MySQL
 
-This is my University Assigment, here I made a Java-based Library Management System built using Apache NetBeans and MySQL.
+This is my University Assigment, here I made a simple Java-based Library Management System built using Apache NetBeans and MySQL.
 
 ## Features
 - User Registration and Login
