@@ -68,3 +68,9 @@ Created as a university assignment using Java and MySQL.
 ### Home-Page
 ![homepage](https://github.com/user-attachments/assets/87521794-1e70-427e-b58b-da9ff17b7052)
 
+## Books-Storage
+![books inventory](https://github.com/user-attachments/assets/e5f20546-1bca-46fd-becc-ab6314abe59e)
+
+### New-Book-Added
+![add new book ](https://github.com/user-attachments/assets/7dad844c-2d0e-4db9-aa72-074ee9ea24d0)
+
