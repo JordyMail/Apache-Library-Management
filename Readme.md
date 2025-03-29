@@ -74,3 +74,9 @@ Created as a university assignment using Java and MySQL.
 ### New-Book-Added
 ![add new book ](https://github.com/user-attachments/assets/7dad844c-2d0e-4db9-aa72-074ee9ea24d0)
 
+## Borrowing-Data
+![borrowing data](https://github.com/user-attachments/assets/f8fd0088-f313-4a26-bfe8-563ec2c17e84)
+
+### New-Borrower-Added
+![add new borower](https://github.com/user-attachments/assets/29cdd6fd-79d1-4b9f-841a-924fc5a88f17)
+
