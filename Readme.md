@@ -50,3 +50,8 @@ Library-Management-System/
 ## Author
 Created as a university assignment using Java and MySQL.
 
+
+## Image 
+
+## Register
+![registration](https://github.com/user-attachments/assets/fea40695-4a38-4fe0-83a8-c0800be60ebd)
