@@ -81,4 +81,5 @@ Created as a university assignment using Java and MySQL.
 ![add new borower](https://github.com/user-attachments/assets/29cdd6fd-79d1-4b9f-841a-924fc5a88f17)
 
 ## Realtime-Database
-![realtime database](https://github.com/user-attachments/assets/ef0232da-e70e-43cb-9aac-258eef681773)
+![realtime database](https://github.com/user-attachments/assets/fad12330-4b16-4ba6-b848-1a413e5ee309)
+
